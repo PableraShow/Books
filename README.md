@@ -6,6 +6,7 @@ Some interesting books about code
 * Javascript The Good Parts
 * JavaScript Patterns
 * Secrets of the JavaScript Ninja
+* Beautiful JavaScript
 * Node Up and Running
 * Node for Front-End Developers
 * Building Node Applications with MongoDB and Backbone
