@@ -1,6 +1,8 @@
 # Books
 Some interesting books about code
 
+[pablogarcia.dev/notes/books](https://pablogarcia.dev/notes/books)
+
 *JavaScript*:
 * Eloquent JavaScript
 * Javascript The Good Parts
